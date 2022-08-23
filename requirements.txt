@@ -1,0 +1,11 @@
+autopep8==1.6.0
+password-strength==0.0.3.post2
+pycodestyle==2.8.0
+pyperclip==1.8.2
+PyQt5==5.15.7
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.11.0
+PyQt5-stubs==5.15.6.0
+PyQt5Designer==5.14.1
+six==1.16.0
+toml==0.10.2
